@@ -1,1 +1,1 @@
-Yet another playing with rails
+모든 것은 간 때문입니다.
